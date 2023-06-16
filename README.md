@@ -49,3 +49,8 @@ Original git project hosted by Nizar : https://github.com/nizarsayad/collaborati
 ## Acknowledgments
 
 A big thank you to Nizar Sayad, Serdar Cekinmez, and Lionel Shaghlil for their contributions and collaboration on this project.
+
+## Details for certification purpose
+
+* email adress: morgane.berrod@gmail.com
+* video link: https://share.vidyard.com/watch/QDcAQ32LJc4GCX65ZwQKkW?
