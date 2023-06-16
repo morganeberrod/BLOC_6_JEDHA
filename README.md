@@ -40,10 +40,12 @@ The application is containerized with Docker for easy deployment and scalability
 ## Team
 
 This project was created with the help and collaboration of:
-- Morgane Berrod
+- Nizar Sayad
 - Serdar Cekinmez
 - Lionel Shaghlil
 
+Original git project hosted by Nizar : https://github.com/nizarsayad/collaborative-story-app
+
 ## Acknowledgments
 
-A big thank you to Morgane Berrod, Serdar Cekinmez, and Lionel Shaghlil for their contributions and collaboration on this project.
+A big thank you to Nizar Sayad, Serdar Cekinmez, and Lionel Shaghlil for their contributions and collaboration on this project.
