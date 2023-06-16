@@ -1,0 +1,6 @@
+archive
+*/secrets.txt
+branching-story-app/testing.ipynb
+branching-story-app/*/__pycache__
+.DS_Store
+*/.DS_Store
